@@ -1,0 +1,4 @@
+main-service/node_modules
+public-api/node_modules
+.history
+curl-endpoint-commands.docx
